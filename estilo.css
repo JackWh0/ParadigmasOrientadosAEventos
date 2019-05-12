@@ -1,0 +1,32 @@
+body{
+    background: black;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+.Centro{
+    text-align: center;
+}
+.Fonte{
+    font-family: Century Gothic, Arial;
+}
+.Tamanho{
+    width: 80px;
+    height: 140px;
+}
+.Botao{
+    border:1px solid #0a011f;
+    display:inline-block;
+    color:#ffffff;
+    font-family:Comic Sans MS;
+    font-size:15px;
+    font-weight:bold;
+    font-style:normal;
+    height:40px;
+    width:100px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 1px 0px #030222;
+    background:rgb(34, 16, 136)
+}
